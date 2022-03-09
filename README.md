@@ -5,12 +5,14 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://beacons.page/felipetaranto">
-  <img height="180em" src="https://github-readme.stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme.stats.vercel.app/api/top-langs/?username=felipetaranto&layout=compavt&langs_count=16&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaranto&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+<div style="display: inline_block"><br>  
+
+<hr>
 <div>
   <a href="https://www.youtube.com/FelipeTaranto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/felipetaranto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
