@@ -1,7 +1,6 @@
 ## Opa!! 👋
-
-- 🤖 Automações, Ciência de Dados, WebScraping e Robozinhos 
-- 📚 Entusiasta de Python
+ 
+- 📚 Estudo e trabalho com Java
 
 ##
 
