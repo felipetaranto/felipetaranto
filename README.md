@@ -1,12 +1,12 @@
 👋 Hey!!
-- I'm Taranto. A full-stack developer living in Brazil's south region, graduated in Information Systems<br>
+> I'm Taranto. A full-stack developer living in Brazil's south region, graduated in Information Systems<br>
 
 <h2>🙋‍♂️ Contact:</h2>
 
-![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![ISNTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipetaranto@gmail.com)
+[![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetaranto/)
+[![ISNTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipetaranto/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22xilohp6vpyld2brncndvswa?si=25a62bde084e4bd3)
 
 <h2>📈 Statistics:</h2>
 
