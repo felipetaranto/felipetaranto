@@ -1,5 +1,5 @@
 👋 Hey!!
-> I'm Taranto. A full-stack developer living in Brazil's south region, graduated in Information Systems<br>
+> I'm Taranto. A full-stack developer living in Brazil, graduated in Information Systems<br>
 
 <h2>🙋‍♂️ Contact:</h2>
 
