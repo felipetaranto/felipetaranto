@@ -1,46 +1,39 @@
-👋 Hey!!
-> I'm Taranto. A Python developer, AI enthusiast, living in Brazil, graduated in Information Systems<br>
+<h1>✌️ FELIPE</h1>
+🙋‍♂️ Hi! I'm a Python developer from Brazil.<br>
+📚 Currently studying AI development.<br>
 
-<h2>🙋‍♂️ Contact:</h2>
+<h2>🔍 Social Media & Contact:</h2>
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipetaranto@gmail.com)
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetaranto/)
 [![ISNTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipetaranto/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22xilohp6vpyld2brncndvswa?si=25a62bde084e4bd3)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5CUcqIpcr6iczZJYY3i1Ln?si=64d71d4fec7f4798)
 
-<h2>📈 Statistics:</h2>
+<h2>🛠️ What's in my toolbox:</h2>
 
-<div>
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaranto&layout=compact&langs_count=5&theme=dracula"/>
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+| Python | TensorFlow | Pytorch | Selenium | Numpy | Pandas | Anaconda | Jupiter | HTML5 | CSS3 | Javascript |
+|:------:|:----------:|:-------:|:--------:|:-----:|:------:|:--------:|:-------:|:-----:|:----:|:----------:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Programming Language"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="IA Python Library"  alt="TensorFlow" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="IA Python Library"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Web Scraping and Automations Python Library" alt="Selenium" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Mathematical Python Library" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Data Science Python Library" alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Python/R Distro and dependencies management " alt="Anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Online IDE for Python" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HyperText Markup Language" alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Cascading Style Sheets" alt="CSS3" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Programming Language" alt="Javascript" width="55" height="55"/>|
+| Java | Spring | Android | MySQL | PostgreSQL | Oracle | SQLite | Postman | Git | Bash | Linux |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Programming Language" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java Framework" alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Mobile Operating System" alt="Android" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Database" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Database" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Database" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Built-in Database" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Online API test tool" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Distributed version control system" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Program and Command Language" alt="Bash" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Open-source Operating System" alt="Linux" width="55" height="55"/>|
 
-<h2>🖥️ Tech-verse:</h2>
+<h2>📈 Metrics:</h2>
 
-- Skills:<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-- Frameworks:<br>
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-- Database:<br>
-![POSTGRE](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- Tools:<br>
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaranto&layout=compact&langs_count=5&theme=highcontrast&hide_border=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=felipetaranto&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipetaranto&row=2&column=3&theme=darkhub" alt="felipetaranto" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipetaranto&style=for-the-badge&color=yellow&abbreviated=true"/>
+</p>
 
 
-- Operational Systems:<br>
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![FEDORA](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
- 
+
+
+
 
