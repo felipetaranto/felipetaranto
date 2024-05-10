@@ -21,7 +21,7 @@
 
 <p align="center">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaranto&layout=compact&langs_count=5&theme=highcontrast&hide_border=true"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=felipetaranto&show_icons=true&theme=highcontrast&hide_border=true"/>
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=felipetaranto&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 <p align="center"> 
